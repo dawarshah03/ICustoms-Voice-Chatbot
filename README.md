@@ -60,3 +60,12 @@ From requirements.txt:
 - google-generativeai
 
 ## Screenshots
+
+<img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/238d15a4-66be-4f45-ac72-aea007da7ea9" />
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/de099d64-dce9-4c4d-8c3e-a7e96f38846a" />
+
+### Chat Log Saved:
+
+<img width="1492" height="875" alt="image" src="https://github.com/user-attachments/assets/6a59ff3e-bccb-4671-a13a-0299f97c75d1" />
+
+
